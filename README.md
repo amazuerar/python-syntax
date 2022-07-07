@@ -1,6 +1,6 @@
 # Most common syntax elements in Python code:
 
-This is a Python project aimed at understading and identifying the most used syntax elements that occur in nowadays Python code (e.g. assignments, binary operation, if statements, function calls, lambdas, variables, etc.)
+This is a Python project aimed at understanding and identifying the most used syntax elements that occur in nowadays Python code (e.g. assignments, binary operation, if statements, function calls, lambdas, variables, etc.)
 
 ## 1. Data retrieval 
 
